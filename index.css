@@ -57,6 +57,7 @@ ol,ul{
 	justify-content: space-between;
 	height:100px;
 	font-weight: bold;
+	padding-bottom: 5em;
 	
 }
 
@@ -87,34 +88,50 @@ ol,ul{
 .container img{
 	margin-top:40px;
 	border-radius:50%;
-	height:650px;
+	height:400px;
 	float:left
 }
-
+.container_2{
+	padding: 7em;
+	align-content: center;
+}
 div h1{
 	margin:0px;
 	font-family: 'Chelsea Market', cursive;
 	vertical-align: middle;
 	text-align:center;
-	font-size:80px;
+	font-size:60px;
 	                                        
 
 }
 
 .container_2 p{
-    margin-top: 2.7%;
+    margin-top: 5%;
 	font-size: 30px;
 	text-align:center;
-	font=family:'Roboto Mono':
+	vertical-align: middle;
+	font=family:'robotomonoo';
 	
 }
 
-.container_3a .img{
-	height:15%;
+.container_3{
+	padding: 0px;
+	font-size:30px;
+	background: lightsalmon;
+
 }
 
+div .fire{
+	display:flexbox;
+	align-items: center;
+	justify-content: center;
+	text-indent: 50%;
+} 
 
-
+div p{
+	font-size:30px;
+	text-align: center;
+}
 
 .container4 .img{
 	height:100px;
